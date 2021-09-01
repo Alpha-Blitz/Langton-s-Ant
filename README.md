@@ -9,3 +9,6 @@ There are two slider on the top left, the first one can be used to change the an
 
 Optional:
 The square grid is easily scalable, this can be done by changing the value of variable 'sqLen'. The constraints on 'sqLen': The value should be a factor of both canvas height and canvas width. The value should be even.
+
+References: https://en.wikipedia.org/wiki/Langton%27s_ant, 
+https://p5js.org/reference/
